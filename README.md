@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @alishamaryangalan
+- 👀 I’m interested in being a Full Stack Developer.
+- 🌱 I’m currently learning Java, CSS, JavaScript, Bootstrap, etc.
+- 💞️ I’m looking to collaborate on projects related to Java and web design.
+- 📫 How to reach me www.linkedin.com/in/alisha-mary-angalan-73234414b | alishamary96@gmail.com
